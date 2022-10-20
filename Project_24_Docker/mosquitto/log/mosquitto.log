@@ -1,0 +1,6 @@
+1666017326: mosquitto version 2.0.15 starting
+1666017326: Config loaded from /mosquitto/config/mosquitto.conf.
+1666017326: Opening ipv4 listen socket on port 1883.
+1666017326: Opening ipv6 listen socket on port 1883.
+1666017326: mosquitto version 2.0.15 running
+1666035115: mosquitto version 2.0.15 terminating
